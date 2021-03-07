@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">networkConnectivity</string>
+    <string name="erreur_message">Problème d\'identification, vous serez redirigé à la page d\'identification dans 5 secondes</string>
+</resources>
